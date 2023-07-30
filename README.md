@@ -1,16 +1,16 @@
 # Python Fundamentals project
 
-### Author
+## Author
 
 Abdul-Aziz Nassor
 
 
-### Description
+## Description
 
 In 1st year of university, we had a module where we explored programming fundamentals in Python. For one of the coursework, we were assigned with creating mulitple mini programs that must all follow their own set criteria.
 
 
-###  Task Criterias
+##  Task Criterias
 
 - Task 1: Open a file and put data into an array
 - Task 2: Check to see if a user input is english letters only or not
