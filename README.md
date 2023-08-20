@@ -1,21 +1,21 @@
 # Python Fundamentals project
 
-### Author
+## Author
 
 Abdul-Aziz Nassor
 
 
-### Description
+## Description
 
 I put my programming skills to the test as I try out a series of different tasks, to test out my fundamental coding skills in Python. These tasks all must their own set criteria that are displayed below.
 
-### What I learnt
+## What I learnt
 * Python
 * Reading Files
 * Array Manipulation
 * String Manipulation
   
-###  Task Criterias
+##  Task Criterias
 
 - Task 1: Open a file and put data into an array
 - Task 2: Check to see if a user input is english letters only or not
